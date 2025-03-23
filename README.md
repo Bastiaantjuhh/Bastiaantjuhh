@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-🌳 MIT License, a.k.a. Men In Trees License.
+🐳 Dockerizing the world, one piece at a time.
 
 <!--✏️ **Blog Posts**-->
 
@@ -28,4 +28,4 @@
 
 🕒 **Last Update**
 
-23-03-2025 12:31:18 UTC
+23-03-2025 16:19:04 UTC
