@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-🚀 Pushing to prod like it’s a moon landing.
+🌳 MIT License, a.k.a. Men In Trees License.
 
 <!--✏️ **Blog Posts**-->
 
@@ -28,4 +28,4 @@
 
 🕒 **Last Update**
 
-23-03-2025 08:19:57 UTC
+23-03-2025 12:31:18 UTC
