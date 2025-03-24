@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-🎮 Coding is my game, and I’m the player.
+🍪 Treating bugs like cookies. Crunching them one by one.
 
 <!--✏️ **Blog Posts**-->
 
@@ -28,4 +28,4 @@
 
 🕒 **Last Update**
 
-24-03-2025 16:23:00 UTC
+24-03-2025 20:17:00 UTC
