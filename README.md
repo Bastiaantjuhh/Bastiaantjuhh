@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-💭 Dreaming in code, waking up to bugs.
+🐳 Dockerizing the world, one piece at a time.
 
 <!--✏️ **Blog Posts**-->
 
@@ -28,4 +28,4 @@
 
 🕒 **Last Update**
 
-23-03-2025 20:16:59 UTC
+24-03-2025 01:22:01 UTC
