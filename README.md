@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-🌌 My code runs like the government... orderly chaos.
+🍪 Treating bugs like cookies. Crunching them one by one.
 
 <!--✏️ **Blog Posts**-->
 
@@ -28,4 +28,4 @@
 
 🕒 **Last Update**
 
-25-03-2025 12:34:51 UTC
+25-03-2025 16:20:34 UTC
