@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-🧠 Machine learning? More like machine teaching me.
+📜 Writing code like it’s poetry. If poetry was full of bugs.
 
 <!--✏️ **Blog Posts**-->
 
@@ -28,4 +28,4 @@
 
 🕒 **Last Update**
 
-25-03-2025 04:20:37 UTC
+25-03-2025 08:22:46 UTC
