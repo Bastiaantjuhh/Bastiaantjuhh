@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-🤖 Automating tasks with CI/CD, because who has time for manual work?
+🔧 Creating something with 11ty and Laravel, i think...
 
 <!--✏️ **Blog Posts**-->
 
@@ -28,4 +28,4 @@
 
 🕒 **Last Update**
 
-26-03-2025 16:22:54 UTC
+26-03-2025 20:19:38 UTC
