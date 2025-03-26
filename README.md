@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-🍎 Designer and Developer with a passion for Apple products.
+🐳 Dockerizing the world, one piece at a time.
 
 <!--✏️ **Blog Posts**-->
 
@@ -28,4 +28,4 @@
 
 🕒 **Last Update**
 
-26-03-2025 01:20:21 UTC
+26-03-2025 04:20:36 UTC
