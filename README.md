@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-🌍 Making the internet a better place, one pull request at a time.
+🍎 Designer and Developer with a passion for Apple products.
 
 <!--✏️ **Blog Posts**-->
 
@@ -28,4 +28,4 @@
 
 🕒 **Last Update**
 
-25-03-2025 20:19:17 UTC
+26-03-2025 01:20:21 UTC
