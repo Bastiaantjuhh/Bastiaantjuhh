@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-🌌 My code runs like the government... orderly chaos.
+⚠️ Writing code is just 20% of the job, 80% is writing Unit test, CI/CD, and fixing bugs
 
 <!--✏️ **Blog Posts**-->
 
@@ -28,4 +28,4 @@
 
 🕒 **Last Update**
 
-26-03-2025 08:22:42 UTC
+26-03-2025 12:34:56 UTC
