@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-⚠️ Writing code is just 20% of the job, 80% is writing Unit test, CI/CD, and fixing bugs
+🤖 Automating tasks with CI/CD, because who has time for manual work?
 
 <!--✏️ **Blog Posts**-->
 
@@ -28,4 +28,4 @@
 
 🕒 **Last Update**
 
-26-03-2025 12:34:56 UTC
+26-03-2025 16:22:54 UTC
