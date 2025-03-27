@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-🧠 Machine learning? More like machine teaching me.
+🚀 Pushing to prod like it’s a moon landing.
 
 <!--✏️ **Blog Posts**-->
 
@@ -28,4 +28,4 @@
 
 🕒 **Last Update**
 
-27-03-2025 12:35:21 UTC
+27-03-2025 16:22:30 UTC
