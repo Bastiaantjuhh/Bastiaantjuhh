@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-🔧 Creating something with 11ty and Laravel, i think...
+☕ Code, coffee, repeat. The circle of productivity.
 
 <!--✏️ **Blog Posts**-->
 
@@ -28,4 +28,4 @@
 
 🕒 **Last Update**
 
-26-03-2025 20:19:38 UTC
+27-03-2025 01:19:52 UTC
