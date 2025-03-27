@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-☕ Code, coffee, repeat. The circle of productivity.
+🍎 Designer and Developer with a passion for Apple products.
 
 <!--✏️ **Blog Posts**-->
 
@@ -28,4 +28,4 @@
 
 🕒 **Last Update**
 
-27-03-2025 01:19:52 UTC
+27-03-2025 04:20:21 UTC
