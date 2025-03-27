@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-🌌 My code runs like the government... orderly chaos.
+🧠 Machine learning? More like machine teaching me.
 
 <!--✏️ **Blog Posts**-->
 
@@ -28,4 +28,4 @@
 
 🕒 **Last Update**
 
-27-03-2025 08:22:25 UTC
+27-03-2025 12:35:21 UTC
