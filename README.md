@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-🚀 Pushing to prod like it’s a moon landing.
+🔧 Creating something with 11ty and Laravel, i think...
 
 <!--✏️ **Blog Posts**-->
 
@@ -28,4 +28,4 @@
 
 🕒 **Last Update**
 
-27-03-2025 16:22:30 UTC
+27-03-2025 20:18:42 UTC
