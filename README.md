@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-💭 Dreaming in code, waking up to bugs.
+🔓 Decentralize everything
 
 <!--✏️ **Blog Posts**-->
 
@@ -28,4 +28,4 @@
 
 🕒 **Last Update**
 
-28-03-2025 12:34:10 UTC
+28-03-2025 16:21:29 UTC
