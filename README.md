@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-😎 sudo rm -rf / --no-preserve-root
+💭 Dreaming in code, waking up to bugs.
 
 <!--✏️ **Blog Posts**-->
 
@@ -28,4 +28,4 @@
 
 🕒 **Last Update**
 
-28-03-2025 08:22:36 UTC
+28-03-2025 12:34:10 UTC
