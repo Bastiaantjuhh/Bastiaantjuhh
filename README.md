@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-🔓 Decentralize everything
+🔧 Creating something with 11ty and Laravel, i think...
 
 <!--✏️ **Blog Posts**-->
 
@@ -28,4 +28,4 @@
 
 🕒 **Last Update**
 
-28-03-2025 16:21:29 UTC
+28-03-2025 20:19:25 UTC
