@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-🧠 Machine learning? More like machine teaching me.
+😎 sudo rm -rf / --no-preserve-root
 
 <!--✏️ **Blog Posts**-->
 
@@ -28,4 +28,4 @@
 
 🕒 **Last Update**
 
-28-03-2025 04:21:01 UTC
+28-03-2025 08:22:36 UTC
