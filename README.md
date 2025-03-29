@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-😎 sudo rm -rf / --no-preserve-root
+🍪 Treating bugs like cookies. Crunching them one by one.
 
 <!--✏️ **Blog Posts**-->
 
@@ -28,4 +28,4 @@
 
 🕒 **Last Update**
 
-29-03-2025 01:19:28 UTC
+29-03-2025 04:21:32 UTC
