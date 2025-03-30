@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-🔒 Encrypting everything, because privacy is the new black.
+💭 Dreaming in code, waking up to bugs.
 
 <!--✏️ **Blog Posts**-->
 
@@ -28,4 +28,4 @@
 
 🕒 **Last Update**
 
-30-03-2025 04:20:10 UTC
+30-03-2025 08:20:16 UTC
