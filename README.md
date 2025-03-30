@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-⚠️ Writing code is just 20% of the job, 80% is writing Unit test, CI/CD, and fixing bugs
+🔒 Encrypting everything, because privacy is the new black.
 
 <!--✏️ **Blog Posts**-->
 
@@ -28,4 +28,4 @@
 
 🕒 **Last Update**
 
-29-03-2025 20:16:59 UTC
+30-03-2025 01:26:36 UTC
