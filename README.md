@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-⚠️ Writing code is just 20% of the job, 80% is writing Unit test, CI/CD, and fixing bugs
+🌳 MIT License, a.k.a. Men In Trees License.
 
 <!--✏️ **Blog Posts**-->
 
@@ -28,4 +28,4 @@
 
 🕒 **Last Update**
 
-31-03-2025 16:22:19 UTC
+31-03-2025 20:19:38 UTC
