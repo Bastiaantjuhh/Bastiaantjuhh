@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-🧠 Machine learning? More like machine teaching me.
+☕ Code, coffee, repeat. The circle of productivity.
 
 <!--✏️ **Blog Posts**-->
 
@@ -28,4 +28,4 @@
 
 🕒 **Last Update**
 
-02-04-2025 12:35:55 UTC
+02-04-2025 16:22:58 UTC
