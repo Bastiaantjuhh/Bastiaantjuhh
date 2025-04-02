@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-📦 Packaging my code like it’s Christmas morning 🎁.
+🍎 Designer and Developer with a passion for Apple products.
 
 <!--✏️ **Blog Posts**-->
 
@@ -28,4 +28,4 @@
 
 🕒 **Last Update**
 
-01-04-2025 20:19:48 UTC
+02-04-2025 01:21:58 UTC
