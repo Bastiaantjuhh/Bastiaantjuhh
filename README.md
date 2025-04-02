@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-☕ Code, coffee, repeat. The circle of productivity.
+🔒 Encrypting everything, because privacy is the new black.
 
 <!--✏️ **Blog Posts**-->
 
@@ -28,4 +28,4 @@
 
 🕒 **Last Update**
 
-02-04-2025 16:22:58 UTC
+02-04-2025 20:19:13 UTC
