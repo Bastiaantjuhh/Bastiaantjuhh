@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-📜 Writing code like it’s poetry. If poetry was full of bugs.
+🔧 Creating something with 11ty and Laravel, i think...
 
 <!--✏️ **Blog Posts**-->
 
@@ -28,4 +28,4 @@
 
 🕒 **Last Update**
 
-04-04-2025 12:34:50 UTC
+04-04-2025 16:21:06 UTC
