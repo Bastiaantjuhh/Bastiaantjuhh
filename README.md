@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-🌌 My code runs like the government... orderly chaos.
+💩 Amateurs be like: Don't respect code license and attribution requirements.
 
 <!--✏️ **Blog Posts**-->
 
@@ -28,4 +28,4 @@
 
 🕒 **Last Update**
 
-03-04-2025 20:19:25 UTC
+04-04-2025 01:20:32 UTC
