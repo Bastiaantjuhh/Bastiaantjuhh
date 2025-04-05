@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-🍪 Treating bugs like cookies. Crunching them one by one.
+🍎 Designer and Developer with a passion for Apple products.
 
 <!--✏️ **Blog Posts**-->
 
@@ -28,4 +28,4 @@
 
 🕒 **Last Update**
 
-05-04-2025 12:31:22 UTC
+05-04-2025 16:20:06 UTC
