@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-💭 Dreaming in code, waking up to bugs.
+⚠️ Writing code is just 20% of the job, 80% is writing Unit test, CI/CD, and fixing bugs
 
 <!--✏️ **Blog Posts**-->
 
@@ -28,4 +28,4 @@
 
 🕒 **Last Update**
 
-06-04-2025 08:20:31 UTC
+06-04-2025 12:31:21 UTC
