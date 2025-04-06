@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-🍎 Designer and Developer with a passion for Apple products.
+🔧 Creating something with 11ty and Laravel, i think...
 
 <!--✏️ **Blog Posts**-->
 
@@ -28,4 +28,4 @@
 
 🕒 **Last Update**
 
-06-04-2025 01:25:31 UTC
+06-04-2025 04:21:01 UTC
