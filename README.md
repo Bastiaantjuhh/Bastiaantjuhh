@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-😎 sudo rm -rf / --no-preserve-root
+🍎 Designer and Developer with a passion for Apple products.
 
 <!--✏️ **Blog Posts**-->
 
@@ -28,4 +28,4 @@
 
 🕒 **Last Update**
 
-05-04-2025 20:17:16 UTC
+06-04-2025 01:25:31 UTC
