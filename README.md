@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-⚠️ Writing code is just 20% of the job, 80% is writing Unit test, CI/CD, and fixing bugs
+🔧 Creating something with 11ty and Laravel, i think...
 
 <!--✏️ **Blog Posts**-->
 
@@ -28,4 +28,4 @@
 
 🕒 **Last Update**
 
-06-04-2025 12:31:21 UTC
+06-04-2025 16:19:03 UTC
