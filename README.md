@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-🔧 Creating something with 11ty and Laravel, i think...
+💭 Dreaming in code, waking up to bugs.
 
 <!--✏️ **Blog Posts**-->
 
@@ -28,4 +28,4 @@
 
 🕒 **Last Update**
 
-06-04-2025 04:21:01 UTC
+06-04-2025 08:20:31 UTC
