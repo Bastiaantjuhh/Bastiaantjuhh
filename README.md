@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-🤯 404 this message is not found.
+🌳 MIT License, a.k.a. Men In Trees License.
 
 <!--✏️ **Blog Posts**-->
 
@@ -18,8 +18,6 @@
 5. 🗣 Commented on [#10](https://github.com/silsha/pwnagotchi.app/issues/10#issuecomment-2727499487) in [silsha/pwnagotchi.app](https://github.com/silsha/pwnagotchi.app)
 6. 🔒 Closed issue [#10](https://github.com/silsha/pwnagotchi.app/issues/10) in [silsha/pwnagotchi.app](https://github.com/silsha/pwnagotchi.app)
 7. ❗ Opened issue [#1](https://github.com/Bastiaantjuhh/Bastiaantjuhh/issues/1) in [Bastiaantjuhh/Bastiaantjuhh](https://github.com/Bastiaantjuhh/Bastiaantjuhh)
-8. 🗣 Commented on [#946](https://github.com/xdesro/personalsit.es/pull/946#issuecomment-2708249478) in [xdesro/personalsit.es](https://github.com/xdesro/personalsit.es)
-9. 💪 Opened PR [#946](https://github.com/xdesro/personalsit.es/pull/946) in [xdesro/personalsit.es](https://github.com/xdesro/personalsit.es)
 <!--END_SECTION:activity-->
 
 🛠️ **Tools**
@@ -28,4 +26,4 @@
 
 🕒 **Last Update**
 
-07-04-2025 08:24:11 UTC
+07-04-2025 12:36:31 UTC
