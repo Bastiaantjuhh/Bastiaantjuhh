@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-🌳 MIT License, a.k.a. Men In Trees License.
+🔧 Creating something with 11ty and Laravel, i think...
 
 <!--✏️ **Blog Posts**-->
 
@@ -28,4 +28,4 @@
 
 🕒 **Last Update**
 
-06-04-2025 20:17:33 UTC
+07-04-2025 01:23:11 UTC
