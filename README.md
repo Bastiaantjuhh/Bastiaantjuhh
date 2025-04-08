@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-🌌 My code runs like the government... orderly chaos.
+😎 sudo rm -rf / --no-preserve-root
 
 <!--✏️ **Blog Posts**-->
 
@@ -26,4 +26,4 @@
 
 🕒 **Last Update**
 
-08-04-2025 12:35:56 UTC
+08-04-2025 16:22:36 UTC
