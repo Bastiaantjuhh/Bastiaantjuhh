@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-🎮 Coding is my game, and I’m the player.
+⚙️ Code is my second language, but debugging? That’s an art.
 
 <!--✏️ **Blog Posts**-->
 
@@ -26,4 +26,4 @@
 
 🕒 **Last Update**
 
-08-04-2025 04:20:57 UTC
+08-04-2025 08:23:50 UTC
