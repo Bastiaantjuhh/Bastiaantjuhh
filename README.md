@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-☕ Code, coffee, repeat. The circle of productivity.
+💭 Dreaming in code, waking up to bugs.
 
 <!--✏️ **Blog Posts**-->
 
@@ -26,4 +26,4 @@
 
 🕒 **Last Update**
 
-09-04-2025 04:21:00 UTC
+09-04-2025 08:25:29 UTC
