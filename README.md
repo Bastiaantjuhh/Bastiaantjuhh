@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-🔒 Encrypting everything, because privacy is the new black.
+🌳 MIT License, a.k.a. Men In Trees License.
 
 <!--✏️ **Blog Posts**-->
 
@@ -26,4 +26,4 @@
 
 🕒 **Last Update**
 
-08-04-2025 20:19:50 UTC
+09-04-2025 01:21:29 UTC
