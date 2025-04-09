@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-🍪 Treating bugs like cookies. Crunching them one by one.
+🔧 Creating something with 11ty and Laravel, i think...
 
 <!--✏️ **Blog Posts**-->
 
@@ -26,4 +26,4 @@
 
 🕒 **Last Update**
 
-09-04-2025 16:23:14 UTC
+09-04-2025 20:18:20 UTC
