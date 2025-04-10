@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-🐳 Dockerizing the world, one piece at a time.
+⚙️ Code is my second language, but debugging? That’s an art.
 
 <!--✏️ **Blog Posts**-->
 
@@ -26,4 +26,4 @@
 
 🕒 **Last Update**
 
-10-04-2025 04:21:17 UTC
+10-04-2025 08:23:27 UTC
