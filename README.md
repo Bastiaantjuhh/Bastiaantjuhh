@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-🔧 Creating something with 11ty and Laravel, i think...
+😎 sudo rm -rf / --no-preserve-root
 
 <!--✏️ **Blog Posts**-->
 
@@ -26,4 +26,4 @@
 
 🕒 **Last Update**
 
-09-04-2025 20:18:20 UTC
+10-04-2025 01:21:01 UTC
