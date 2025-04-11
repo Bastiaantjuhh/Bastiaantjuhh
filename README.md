@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-🎲 Rolling the dice on this commit... hope it doesn’t break everything.
+🍎 Designer and Developer with a passion for Apple products.
 
 <!--✏️ **Blog Posts**-->
 
@@ -26,4 +26,4 @@
 
 🕒 **Last Update**
 
-11-04-2025 04:21:53 UTC
+11-04-2025 08:23:37 UTC
