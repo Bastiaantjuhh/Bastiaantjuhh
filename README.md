@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-📜 Writing code like it’s poetry. If poetry was full of bugs.
+💭 Dreaming in code, waking up to bugs.
 
 <!--✏️ **Blog Posts**-->
 
@@ -26,4 +26,4 @@
 
 🕒 **Last Update**
 
-12-04-2025 01:19:58 UTC
+12-04-2025 04:20:00 UTC
