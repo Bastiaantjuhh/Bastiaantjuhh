@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-🎮 Coding is my game, and I’m the player.
+😎 sudo rm -rf / --no-preserve-root
 
 <!--✏️ **Blog Posts**-->
 
@@ -26,4 +26,4 @@
 
 🕒 **Last Update**
 
-12-04-2025 16:19:54 UTC
+12-04-2025 20:17:21 UTC
