@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-😎 sudo rm -rf / --no-preserve-root
+🔓 Decentralize everything
 
 <!--✏️ **Blog Posts**-->
 
@@ -26,4 +26,4 @@
 
 🕒 **Last Update**
 
-12-04-2025 20:17:21 UTC
+13-04-2025 02:49:16 UTC
