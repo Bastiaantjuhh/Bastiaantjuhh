@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-💭 Dreaming in code, waking up to bugs.
+💩 Amateurs be like: Don't respect code license and attribution requirements.
 
 <!--✏️ **Blog Posts**-->
 
@@ -26,4 +26,4 @@
 
 🕒 **Last Update**
 
-13-04-2025 04:47:06 UTC
+13-04-2025 08:20:40 UTC
