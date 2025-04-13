@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-💩 Amateurs be like: Don't respect code license and attribution requirements.
+😎 sudo rm -rf / --no-preserve-root
 
 <!--✏️ **Blog Posts**-->
 
@@ -26,4 +26,4 @@
 
 🕒 **Last Update**
 
-13-04-2025 08:20:40 UTC
+13-04-2025 12:32:02 UTC
