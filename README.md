@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-🍪 Treating bugs like cookies. Crunching them one by one.
+💭 Dreaming in code, waking up to bugs.
 
 <!--✏️ **Blog Posts**-->
 
@@ -26,4 +26,4 @@
 
 🕒 **Last Update**
 
-13-04-2025 20:17:34 UTC
+14-04-2025 01:24:31 UTC
