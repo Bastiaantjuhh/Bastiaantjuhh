@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-⚙️ Code is my second language, but debugging? That’s an art.
+☕ Code, coffee, repeat. The circle of productivity.
 
 <!--✏️ **Blog Posts**-->
 
@@ -26,4 +26,4 @@
 
 🕒 **Last Update**
 
-14-04-2025 08:24:28 UTC
+14-04-2025 12:36:02 UTC
