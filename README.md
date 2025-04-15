@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-🌳 MIT License, a.k.a. Men In Trees License.
+☕ Code, coffee, repeat. The circle of productivity.
 
 <!--✏️ **Blog Posts**-->
 
@@ -21,4 +21,4 @@
 
 🕒 **Last Update**
 
-15-04-2025 16:20:30 UTC
+15-04-2025 20:19:34 UTC
