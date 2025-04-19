@@ -4,7 +4,7 @@
 
 ✨ **About**
 
-📜 Writing code like it’s poetry. If poetry was full of bugs.
+😎 sudo rm -rf / --no-preserve-root
 
 <!--✏️ **Blog Posts**-->
 
@@ -20,4 +20,4 @@
 
 🕒 **Last Update**
 
-19-04-2025 01:19:13 UTC
+19-04-2025 04:20:15 UTC
