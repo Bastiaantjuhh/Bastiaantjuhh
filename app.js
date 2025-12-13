@@ -6,11 +6,11 @@
 
 const fs = require("fs");
 
-const getRandomLineFromJSON = require("./utils/getRandomLine");
+// const getRandomLineFromJSON = require("./utils/getRandomLine");
 const getToolsImages = require("./utils/getToolsImages");
 // const fetchRSS = require("./utils/getRssFeed");
 const getLinks = require("./utils/getLinks");
-const getFormattedNow = require("./utils/getFormattedNow");
+// const getFormattedNow = require("./utils/getFormattedNow");
 
 // Replace placeholders
 async function updateReadme() {
@@ -25,10 +25,10 @@ async function updateReadme() {
         ]);
 
         const updatedData = data
-            .replace("<!--RANDOM_LINE-->", getRandomLineFromJSON())
+            // .replace("<!--RANDOM_LINE-->", getRandomLineFromJSON())
             // .replace("<!--BLOG_POSTS-->", rssFeed)
             .replace("<!--TOOLS_IMAGES-->", toolsImages)
-            .replace("<!--NOW-->", getFormattedNow()) 
+            // .replace("<!--NOW-->", getFormattedNow()) 
             .replace("<!--HYPERLINKS-->", getLinks()); 
 
         fs.writeFileSync("./README.md", updatedData, { encoding: "utf-8" });
